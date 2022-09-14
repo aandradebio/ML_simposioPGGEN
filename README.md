@@ -10,4 +10,8 @@ A princípio estes materiais serão disponibilizados apenas para os alunos do mi
 
 Em caso de dúvidas, podem abrir um tópico na aba Issues ou me mandar um email diretamente aandradebio@gmail.com
 
-Dúvidas específicas, como no caso de erros de execução, devem vir acompanhadas dos comandos executados e de um conjunto de dados para o teste. 
+Dúvidas específicas, como no caso de erros de execução, devem vir acompanhadas dos comandos executados e de um conjunto de dados para o teste.
+
+Obter o repositório via linha de comando:
+
+`wget https://github.com/aandradebio/ML_simposioPGGEN/archive/refs/heads/main.zip`
