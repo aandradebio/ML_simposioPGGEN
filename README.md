@@ -9,5 +9,5 @@ A princípio estes materiais serão disponibilizados apenas para os alunos do mi
 
 Em caso de dúvidas, podem abrir um tópico na aba Issues ou me mandar um email diretamente aandradebio@gmail.com
 
-Dúvidas específicas, como no caso de erros de execução, devem vir acompanhadas dos comandos executados, da mensagem de erro e de um conjunto de dados para o teste.
+Dúvidas específicas, como no caso de erros de execução, devem vir acompanhadas dos comandos executados e da mensagem de erro, se possível de um conjunto de dados para o teste.
 
