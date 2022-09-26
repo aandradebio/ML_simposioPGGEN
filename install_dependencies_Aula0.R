@@ -5,7 +5,7 @@
 
 install.packages("seqinR")
 install.packages("kmer")
-install.packages("Caret")
+install.packages("caret")
 install.packages("MLeval")
 install.packages("ggplot2")
 install.packages("ggtree")
