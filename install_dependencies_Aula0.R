@@ -3,7 +3,7 @@
 
 ## Pacotes que serão utilizados para as próximas práticas: 
 
-install.packages("seqinR")
+install.packages("seqinr")
 install.packages("kmer")
 install.packages("caret")
 install.packages("MLeval")
